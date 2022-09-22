@@ -10,7 +10,7 @@ create table paciente (
 	cid_pac varchar(50)
 )
 
--- Alterando a tabela
+-- Alterando a tabela 
 
 alter table paciente 
 	add dat_pac date
